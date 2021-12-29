@@ -1,11 +1,7 @@
 # Ignora archivos del sistema Mac 
 .DS_store
 
-# Ignora archivos dll
-.dll
-
-# Ignora archivos cache
-.cache
+# Ignora archivos del tipo
 *.cache
 *.pdb
 *.dll
