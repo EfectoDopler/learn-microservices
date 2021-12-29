@@ -6,3 +6,10 @@
 
 # Ignora archivos cache
 .cache
+*.cache
+*.pdb
+*.dll
+*.CopyComplete
+*.editorconfig
+*.cache
+*.cache
