@@ -6742,11 +6742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/efectodoppler/Workspace/Microservices/ASP-NET-MICROSERVICES-TUTORIAL/Microservices/Services.api.Library/Services.api.Library.csproj",
+      "projectUniqueName": "/Users/efectodoppler/Workspace/learn-microservices/learn-microservices/Microservices/Services.api.Library/Services.api.Library.csproj",
       "projectName": "Services.api.Library",
-      "projectPath": "/Users/efectodoppler/Workspace/Microservices/ASP-NET-MICROSERVICES-TUTORIAL/Microservices/Services.api.Library/Services.api.Library.csproj",
+      "projectPath": "/Users/efectodoppler/Workspace/learn-microservices/learn-microservices/Microservices/Services.api.Library/Services.api.Library.csproj",
       "packagesPath": "/Users/efectodoppler/.nuget/packages/",
-      "outputPath": "/Users/efectodoppler/Workspace/Microservices/ASP-NET-MICROSERVICES-TUTORIAL/Microservices/Services.api.Library/obj/",
+      "outputPath": "/Users/efectodoppler/Workspace/learn-microservices/learn-microservices/Microservices/Services.api.Library/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/efectodoppler/.config/NuGet/NuGet.Config"

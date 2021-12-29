@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aF5nHHTNFQHkfvNlLLSDWfOv+U6kC2D6zC3kgO2UP60PUkmpPz8MRuGvkKLiNV7MTrNGd0Qrlc+3kY1pUdejqA==",
+  "dgSpecHash": "bQx4czTWTy+ag8/hVRZNlONw9ddBpYKWJ01VarLdyxL2VIDmrg2Vq1cNKMKerHBSVnESTO4Vo375fcYrkW1cNg==",
   "success": true,
-  "projectFilePath": "/Users/efectodoppler/Workspace/Microservices/ASP-NET-MICROSERVICES-TUTORIAL/Microservices/Services.api.Library/Services.api.Library.csproj",
+  "projectFilePath": "/Users/efectodoppler/Workspace/learn-microservices/learn-microservices/Microservices/Services.api.Library/Services.api.Library.csproj",
   "expectedPackageFiles": [
     "/Users/efectodoppler/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
     "/Users/efectodoppler/.nuget/packages/humanizer.core/2.2.0/humanizer.core.2.2.0.nupkg.sha512",
