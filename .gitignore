@@ -10,3 +10,7 @@
 *.so
 *.exe
 *.dylib
+
+#Ignora archivos debug de ASP NET
+
+Microservices/Services.api.Library/bin/Debug/*
