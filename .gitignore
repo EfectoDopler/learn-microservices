@@ -14,3 +14,4 @@
 #Ignora archivos debug de ASP NET
 
 Microservices/Services.api.Library/bin/Debug/*
+Microservices/Services.api.Library/obj/Debug/*
