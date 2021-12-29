@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/efectodoppler/.dotnet/store/|arch|/|tfm|",
+      "/Users/efectodoppler/.nuget/packages"
+    ]
+  }
+}
