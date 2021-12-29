@@ -15,3 +15,5 @@
 
 Microservices/Services.api.Library/bin/Debug/*
 Microservices/Services.api.Library/obj/Debug/*
+Microservices/Services.api.Library/obj/Debug/net5.0/Services.api.Library.csproj.FileListAbsolute.txt
+Microservices/Services.api.Library/obj/Debug/net5.0/Services.api.Library.assets.cache
