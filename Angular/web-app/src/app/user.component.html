@@ -1,0 +1,5 @@
+<div *ngIf="empty"><h1> Write an user to create a userList </h1></div>
+<div *ngIf="!empty"><h1> Write another user to add them into the list </h1></div>
+<input type="text" [(ngModel)]="userName">
+<button (click)="onAddUser()"> Add </button>
+<div *ngFor="let usr of userList">{{usr}}</div>
