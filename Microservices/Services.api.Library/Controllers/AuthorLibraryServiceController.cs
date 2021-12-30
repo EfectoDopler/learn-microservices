@@ -46,5 +46,13 @@ namespace Services.api.Library.Controllers
         public async Task Delete(string Id) {
             await _genericAuthorRepository.DeleteById(Id);
         }
+
+        [HttpPost("pagination")]
+        public async Task<ActionResult<PaginatorEntity<AuthorEntity>>> PostPagination(PaginatorEntity<AuthorEntity> pagination) {
+
+            var results = await _genericAuthorRepository.PaginationByFilter( pagination);
+
+            return Ok(results);
+        }
     }   
 }
