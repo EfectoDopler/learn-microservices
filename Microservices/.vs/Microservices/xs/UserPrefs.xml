@@ -1,11 +1,27 @@
 ﻿<Properties StartupConfiguration="{E792BDA2-6E21-4D67-9C8F-FA4ACF6E30FF}|Default">
   <MonoDevelop.Ide.ItemProperties.Services.api.Library PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Services.api.Library/Controllers/AuthorLibraryServiceController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services.api.Library/Controllers/BookServiceController.cs">
     <Files>
       <File FileName="Services.api.Library/Controllers/LibraryServiceController.cs" Line="44" Column="1" />
-      <File FileName="Services.api.Library/Repository/MongoRepository.cs" Line="53" Column="61" />
-      <File FileName="Services.api.Library/Repository/IMongoRepository.cs" Line="19" Column="28" />
-      <File FileName="Services.api.Library/Controllers/AuthorLibraryServiceController.cs" Line="14" Column="26" />
+      <File FileName="Services.api.Library/Repository/MongoRepository.cs" Line="128" Column="66" />
+      <File FileName="Services.api.Library/Repository/IMongoRepository.cs" Line="27" Column="51" />
+      <File FileName="Services.api.Library/Controllers/AuthorLibraryServiceController.cs" Line="18" Column="42" />
+      <File FileName="Services.api.Library/Startup.cs" Line="86" Column="13" />
+      <File FileName="Services.api.Library/Core/ContextMongoDB/AuthorContext.cs" />
+      <File FileName="Services.api.Library/Core/MongoSettings.cs" />
+      <File FileName="Services.api.Library/Properties/launchSettings.json" />
+      <File FileName="Services.api.Library/Repository/AuthorRepository.cs" />
+      <File FileName="Services.api.Library/Core/Entities/Author.cs" Line="1" Column="1" />
+      <File FileName="Services.api.Library/Core/Entities/AuthorEntity.cs" Line="1" Column="1" />
+      <File FileName="Services.api.Library/Core/Entities/BsonCollectionAttribute.cs" Line="1" Column="1" />
+      <File FileName="Services.api.Library/Core/Entities/Document.cs" Line="1" Column="1" />
+      <File FileName="Services.api.Library/Core/Entities/EmployerEntity.cs" Line="1" Column="1" />
+      <File FileName="Services.api.Library/Core/ContextMongoDB/IAuthorContext.cs" />
+      <File FileName="Services.api.Library/Core/Entities/PaginatorEntity.cs" Line="16" Column="41" />
+      <File FileName="Services.api.Library/Core/Entities/FilterValueClass.cs" Line="6" Column="27" />
+      <File FileName="Services.api.Library/Core/Entities/BookEntity.cs" Line="7" Column="28" />
+      <File FileName="Services.api.Library/Controllers/BookServiceController.cs" Line="33" Column="29" />
+      <File FileName="Services.api.Library/Core/Entities/IDocument.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,9 +29,11 @@
           <Node name="Microservices" expanded="True">
             <Node name="Services.api.Library" expanded="True">
               <Node name="Controllers" expanded="True">
-                <Node name="AuthorLibraryServiceController.cs" selected="True" />
+                <Node name="BookServiceController.cs" selected="True" />
               </Node>
-              <Node name="Core" expanded="True" />
+              <Node name="Core" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
               <Node name="Properties" expanded="True" />
               <Node name="Repository" expanded="True" />
             </Node>
