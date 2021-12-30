@@ -375,7 +375,6 @@
 /Users/efectodoppler/Workspace/learn-microservices/learn-microservices/Microservices/Services.api.Library/bin/Debug/net5.0/runtimes/linux/native/libmongocrypt.so
 /Users/efectodoppler/Workspace/learn-microservices/learn-microservices/Microservices/Services.api.Library/bin/Debug/net5.0/runtimes/osx/native/libmongocrypt.dylib
 /Users/efectodoppler/Workspace/learn-microservices/learn-microservices/Microservices/Services.api.Library/bin/Debug/net5.0/runtimes/win/native/mongocrypt.dll
-/Users/efectodoppler/Workspace/learn-microservices/learn-microservices/Microservices/Services.api.Library/obj/Debug/net5.0/Services.api.Library.csproj.AssemblyReference.cache
 /Users/efectodoppler/Workspace/learn-microservices/learn-microservices/Microservices/Services.api.Library/obj/Debug/net5.0/Services.api.Library.GeneratedMSBuildEditorConfig.editorconfig
 /Users/efectodoppler/Workspace/learn-microservices/learn-microservices/Microservices/Services.api.Library/obj/Debug/net5.0/Services.api.Library.AssemblyInfoInputs.cache
 /Users/efectodoppler/Workspace/learn-microservices/learn-microservices/Microservices/Services.api.Library/obj/Debug/net5.0/Services.api.Library.AssemblyInfo.cs
