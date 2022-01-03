@@ -7,4 +7,8 @@ import {Component} from '@angular/core';
 
 export class BooksComponent {
   books = ['Primer libro', 'Segundo libro', 'tercer libro'];
+
+  removeBook(book) {
+    this.books = this.books.filter( p => p !== book);
+  }
 }
